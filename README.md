@@ -5,7 +5,7 @@ Enjoys tackling challenging problems.
 
 Working with <a href="https://coloredcow.com">ColoredCow</a>. 
 
-A native of Tehri, Uttarakhand and likes to read and binge on Netflix in his free time.
+A native of Tehri, Uttarakhand ⛰ and likes to read and binge on Netflix in his free time.
 
 <a href="https://www.linkedin.com/in/vivek-amola-5209a3128/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
