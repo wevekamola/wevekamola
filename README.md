@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, blog posts and public speakings.
+Driven to make a difference. Believes that a life-changing idea can come from anywhere. Takes a multidisciplinary approach towards learning and doing things.
+Enjoys tackling challenging problems. 
+
+Working with <a href="https://coloredcow.com">ColoredCow</a>. 
+
+A native of Tehri, Uttarakhand and likes to read and binge on Netflix in his free time.
 
 <a href="https://www.linkedin.com/in/vivek-amola-5209a3128/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 
