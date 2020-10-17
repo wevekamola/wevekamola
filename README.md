@@ -3,7 +3,7 @@
 Driven to make a difference. Believes that a life-changing idea can come from anywhere. Takes a multidisciplinary approach towards learning and doing things.
 Enjoys tackling challenging problems. 
 
-Working with <a href="https://coloredcow.com">ColoredCow</a>. 
+Working with <a href="https://coloredcow.com?utm_source=github&utm_medium=wevekamola">ColoredCow</a>. 
 
 A native of Tehri, Uttarakhand ⛰ and likes to read and binge on Netflix in his free time.
 
