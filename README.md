@@ -39,6 +39,13 @@ Real-world systems and platforms I’ve built across AI, data, and scalable appl
 - [Unified authentication system with SSO & workflow automation](https://vivekamola.in/workfolio/enhanced-community-members-experience-through-unified-user-authentication-and-efficient-workflows/)
 - [Optimized hosting & infrastructure for secure, scalable systems](https://vivekamola.in/workfolio/strengthened-data-security-with-optimized-hosting-infrastructure-for-a-marketing-agencys-digital-systems/)
 
+## ✍️ Blogs
+I write about the journey of building scalable applications.
+
+- ➡️ Medium: https://medium.com/@vivekamola
+
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/vivekamola  
+- Email: vivek.amola7@gmail.com
 - Portfolio: [vivekamola.in](https://vivekamola.in/)
+- LinkedIn: https://linkedin.com/in/vivekamola  
+
