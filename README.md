@@ -31,7 +31,14 @@ I specialize in designing multi-tenant architectures and developing LLM-powered 
 - Developed chatbot and IVR-based systems for large-scale user interaction workflows
 - Designed and deployed cloud-based systems using AWS (EC2, S3, RDS)
 
+## 🧩 Case Studies
+Real-world systems and platforms I’ve built across AI, data, and scalable applications:
+
+- [Revamped data infrastructure for state government initiatives](https://vivekamola.in/workfolio/revamped-data-infrastructure-for-state-government-initiatives-enabling-scalable-data-collection-reporting/)
+- [AI-driven chatbot system for large-scale farmer engagement](https://vivekamola.in/workfolio/boosted-farmer-engagement-with-an-ai-driven-chatbot-program-for-an-agritech-initiative/)
+- [Unified authentication system with SSO & workflow automation](https://vivekamola.in/workfolio/enhanced-community-members-experience-through-unified-user-authentication-and-efficient-workflows/)
+- [Optimized hosting & infrastructure for secure, scalable systems](https://vivekamola.in/workfolio/strengthened-data-security-with-optimized-hosting-infrastructure-for-a-marketing-agencys-digital-systems/)
 
 ## 📫 Connect
 - LinkedIn: https://linkedin.com/in/vivekamola  
-- Portfolio: vivekamola.in
+- Portfolio: [vivekamola.in](https://vivekamola.in/)
